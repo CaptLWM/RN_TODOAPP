@@ -51,5 +51,10 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MaterialIcons.ttf</string>
+	</array>
 </dict>
 </plist>
+<!-- 앱 이름, 아이콘, 버전 등 앱에서 필요한 설정값 가지고 있음 -->
